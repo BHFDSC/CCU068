@@ -12,7 +12,7 @@ The proposed study will inform health policy regarding the clinical management o
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU068_01: The impact of COVID-19 vaccination on patients with congenital heart disease in England and Wales](https://github.com/BHFDSC/CCU068_01)
 
 ## Project approval
 
